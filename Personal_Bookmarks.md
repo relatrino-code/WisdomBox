@@ -36,3 +36,21 @@ https://github.com/microsoft/vscode-mssql/issues/1447
 https://www.omgubuntu.co.uk/
 ```
 
+- Setup SSH on Git/Github
+
+```
+https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278
+```
+
+- Nala over APT in Debian
+
+```
+https://www.omgubuntu.co.uk/2023/01/install-nala-on-ubuntu
+```
+
+- SyncThing
+
+```
+https://syncthing.net/
+```
+
