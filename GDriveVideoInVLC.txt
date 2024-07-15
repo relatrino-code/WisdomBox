@@ -1,0 +1,9 @@
+API Key = AIzaSyBGD28uLRZw6FQllg71wl78C2-Da4XiTvo
+
+URI = https://www.googleapis.com/drive/v3/files/fileID?alt=media&key=APIKey
+
+https://drive.google.com/file/d/1TIbJO4tW3pkRNpuI4oojGMftyaxUOo62/view?usp=sharing
+
+File ID = 1TIbJO4tW3pkRNpuI4oojGMftyaxUOo62
+
+Final URI = https://www.googleapis.com/drive/v3/files/1TIbJO4tW3pkRNpuI4oojGMftyaxUOo62?alt=media&key=AIzaSyBGD28uLRZw6FQllg71wl78C2-Da4XiTvo
