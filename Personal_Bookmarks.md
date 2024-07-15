@@ -54,3 +54,9 @@ https://www.omgubuntu.co.uk/2023/01/install-nala-on-ubuntu
 https://syncthing.net/
 ```
 
+- Python DateTime format argument index
+
+```
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+```
+
