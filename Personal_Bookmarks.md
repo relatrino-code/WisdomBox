@@ -60,3 +60,21 @@ https://syncthing.net/
 https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
 ```
 
+- Resource Handouts
+
+```
+https://handoutsforyou.vercel.app/
+```
+
+- Valley of Code Web Development
+
+```
+https://thevalleyofcode.com/
+```
+
+- LetterBoxD Movie Tracker
+
+```
+https://letterboxd.com/
+```
+
