@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4f2078ece62d92e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6a352592a482f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39eec7b008dc6f1d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ML/Statistics/04-MeasuresOfCentralTendency.png"
+              },
+              "icon": "lucide-image",
+              "title": "04-MeasuresOfCentralTendency"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3960aff084ceee32",
+    "type": "split",
+    "children": [
+      {
+        "id": "65222ac57cab9a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd414754edeca92c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48391cc3b43f4c6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dfbf4739e7d474db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.41796875
+  },
+  "right": {
+    "id": "f12226a8b94adc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5782e4852a621f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2baf39a104e0a57d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "64c670dbbb62af64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "16919f9407b4e7c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04051c03109350a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62d2896a3f5469e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "39eec7b008dc6f1d",
+  "lastOpenFiles": [
+    "ML/Statistics/03-NormalDistributions.png",
+    "ML/Statistics/04-MeasuresOfCentralTendency.png",
+    "ML/Statistics/02-ProbabilityDistributions.png",
+    "ML/Statistics/05-ExponentialDistribution.png",
+    "ML/Statistics/01-Histograms.png",
+    "ML/Statistics/Histograms.md",
+    "ML/Statistics",
+    "Untitled",
+    "ML"
+  ]
+}

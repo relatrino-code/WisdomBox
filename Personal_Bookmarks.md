@@ -84,3 +84,9 @@ https://letterboxd.com/
 https://getintopc.com/
 ```
 
+- Cinewave - Streaming Platform
+
+```
+https://watch.cinewave.qzz.io/
+```
+
